@@ -16,6 +16,7 @@ List of useful commands:
 - git log origin/master
 - git diff origin/master
 - git restore --staged fileName
+- git fetch + git merge = git pull
 
 Other tips:
 - Branching is the key concept in Git. And it works around the rule that the master branch is ALWAYS deployable
