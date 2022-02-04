@@ -15,6 +15,7 @@ List of useful commands:
 - git branch -r
 - git status --short
 - git log origin/master
+- git log --oneline (more concise)
 - git diff origin/master
 - git restore --staged fileName
 - git fetch + git merge = git pull
